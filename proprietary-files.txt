@@ -1097,6 +1097,7 @@ odm/etc/dolby_vision.cfg
 
 # Sensors
 odm/lib64/libssccalapi@2.0.so
+odm/lib64/libsubway_states_sensor.so
 
 # Sensors (CIT)
 odm/bin/hw/vendor.xiaomi.sensor.citsensorservice@2.0-service
